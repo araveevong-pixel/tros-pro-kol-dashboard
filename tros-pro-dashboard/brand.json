@@ -1,0 +1,17 @@
+{
+  "campaign": "TROS PRO",
+  "subtitle": "แป้งผู้ชาย TROS Pro Facial BB Powder — KOL Campaign 2026",
+  "hashtags": "#แป้งผู้ชายTROSProFacialBB #เลิกยืมแป้งแฟน",
+  "repo": "tros-pro-kol-dashboard",
+  "platforms": {
+    "TikTok": {
+      "targetViews": 10000000,
+      "media": 150000
+    },
+    "Facebook": {
+      "targetViews": 3500000,
+      "media": 30000
+    }
+  },
+  "generated": "2026-07-23"
+}
